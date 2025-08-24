@@ -96,3 +96,9 @@ litellm_config.yaml
 .cursor
 .vscode/launch.json
 litellm/proxy/to_delete_loadtest_work/*
+
+# Build artifacts and distribution files
+dist/
+build/
+*.whl
+*.tar.gz
